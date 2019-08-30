@@ -68,12 +68,12 @@ sections:
       title: Windows AutoPilot Deployment Program support in Microsoft Intune
       image:
         src: https://docs.microsoft.com/en-us/media/common/i_generic-database.svg
-    - href: https://blogs.technet.microsoft.com/intunesupport/2018/09/12/support-tip-intune-support-for-ios-12/
-      title: "[Blog] Support Tip: Intune Support for iOS 12"
+    - href: https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Support-Tip-Using-group-tags-to-import-devices-into-Intune-with/ba-p/815336
+      title: "[Blog] Support Tip: Using group tags to import devices into Intune with Autopilot"
       image:
         src: https://docs.microsoft.com/en-us/media/common/i_blog.svg
-    - href: https://blogs.technet.microsoft.com/intunesupport/2018/09/04/coming-soon-new-intune-support-experience-for-premier-customers/
-      title: "[Blog] New Intune support experience for Premier customers"
+    - href: https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-Day-Zero-support-for-new-settings-and-updates-in-iOS-13/ba-p/809055
+      title: "[Blog] Intune Day Zero support for new settings and updates in iOS 13 and macOS 10.15"
       image: 
         src: https://docs.microsoft.com/en-us/media/common/i_blog.svg
     
